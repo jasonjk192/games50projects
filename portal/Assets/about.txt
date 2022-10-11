@@ -1,0 +1,9 @@
+Assignment : Assets/Scenes/ProjectScene
+
+Gameplay
+
+Collect 3 spheres and jump into the pipe to finish the game
+Player must grab the blue sphere to trigger the red collectibles to spawn inside the room
+Red spheres are visible (and collectible) when the blue sphere is in close distance to them
+Falling out of the map will cause player to respawn
+Jumping into the pipe without all 3 red spheres causes player to respawn
